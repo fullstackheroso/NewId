@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrrOE/fuYQuJKsZDsKk9pfZkouU+Tyx3TfwRZbjBXlivj2tP5+KS20LieMdnEUUvS/D+mdYB3K5hRqz+dADhzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CSharp\\Library\\NewId\\src\\NewId.Tests\\NewId.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toannq\\.nuget\\packages\\appveyor.testlogger\\2.0.0\\appveyor.testlogger.2.0.0.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.codecoverage\\17.4.0-preview-20220726-02\\microsoft.codecoverage.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.net.test.sdk\\17.4.0-preview-20220726-02\\microsoft.net.test.sdk.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.4.0-preview-20220726-02\\microsoft.testplatform.objectmodel.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.testplatform.testhost\\17.4.0-preview-20220726-02\\microsoft.testplatform.testhost.17.4.0-preview-20220726-02.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\nunit3testadapter\\4.3.0-alpha-net7.4\\nunit3testadapter.4.3.0-alpha-net7.4.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

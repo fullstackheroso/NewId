@@ -1,0 +1,15 @@
+D:\Projects\CSharp\Library\NewId\src\NewId\bin\Debug\net6.0\NewId.deps.json
+D:\Projects\CSharp\Library\NewId\src\NewId\bin\Debug\net6.0\NewId.dll
+D:\Projects\CSharp\Library\NewId\src\NewId\bin\Debug\net6.0\NewId.pdb
+D:\Projects\CSharp\Library\NewId\src\NewId\bin\Debug\net6.0\NewId.xml
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.csproj.AssemblyReference.cache
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.AssemblyInfoInputs.cache
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.AssemblyInfo.cs
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.csproj.CoreCompileInputs.cache
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.sourcelink.json
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.dll
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\refint\NewId.dll
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.xml
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\NewId.pdb
+D:\Projects\CSharp\Library\NewId\src\NewId\obj\Debug\net6.0\ref\NewId.dll

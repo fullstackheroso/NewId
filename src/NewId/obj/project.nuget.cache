@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWbzq/zHJr/oK7zXyMMu6bsFs6LPLy/WiIN4unILv3Vpf2EcAF4F9eaO+0yV7ppVlHQLLeL1cYFqvSiwN3MHJQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CSharp\\Library\\NewId\\src\\NewId\\NewId.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\toannq\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
